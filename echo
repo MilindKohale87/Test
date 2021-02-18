@@ -1,1 +1,7 @@
-echo "this is my first build"
+class Message
+{
+    public static void main(String a[])
+    {
+     System.out.println("This is JAVA Println");
+    }
+}
